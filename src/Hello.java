@@ -1,0 +1,17 @@
+/**
+ * 2025/09/01
+ * Ty Dresden
+ * CSCE 155H
+ * 
+ * Prints my name to the terminal
+ */
+
+
+public class Hello {
+
+	
+		  public static void main(String args[]) {
+		    System.out.println("Ty Dresden");
+		  }
+
+		}
